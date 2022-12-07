@@ -1,2 +1,2 @@
-#!/bin/bash
-$(($TRUEKNOWLEDGE + 127))
+#!/bin/bash)
+echo "$((128 + $TRUEKNOWLEDGE))"
